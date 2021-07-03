@@ -1,2 +1,4 @@
 # NotRobo
-Guvi Task 23-05-2021
+
+API used:
+https://pixabay.com/api/docs/
